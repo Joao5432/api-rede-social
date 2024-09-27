@@ -1,0 +1,7 @@
+    spring:    
+        application:
+            name: api-rede-social
+    server:
+        servlet:
+            context-path: /api/rede-social
+        port: 8080
